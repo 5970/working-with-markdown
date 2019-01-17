@@ -96,8 +96,6 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
-
-dcase@nwmissouri.edu
+Akhil kumar Reddy
 
 
